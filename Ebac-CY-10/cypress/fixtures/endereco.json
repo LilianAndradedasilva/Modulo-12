@@ -1,0 +1,40 @@
+[
+    {
+        "nome": "Claudia",
+        "sobrenome": "Souza",
+        "empresa": "Beta",
+        "pais": "Brasil",
+        "endereco": "Rua da Prata",
+        "numero": "100",
+        "cidade": "Juçara",
+        "estado": "Paraná",
+        "cep": "01000000",
+        "telefone": "11988778888",
+        "email": "Angela.souza@beta.com"
+    },
+    {
+        "nome": "Aline",
+        "sobrenome": "Souza",
+        "empresa": "Marone",
+        "pais": "Brasil",
+        "endereço": "Rua Montana",
+        "numero": "100",
+        "cidade": "Santa Maria",
+        "estado": "Santa Catarina",
+        "cep": "01000000",
+        "telefone": "11988778888",
+        "email": "Angela.souza@beta.com"
+    },
+    {
+        "nome": "Angela",
+        "sobrenome": "Souza",
+        "empresa": "Alcaçuz",
+        "numero": "100",
+        "pais": "Brasil",
+        "cidade": "Monte Verde",
+        "estado": "Minas Gerais",
+        "cep": "01000000",
+        "telefone": "11988778888",
+        "email": "Angela.souza@beta.com"
+    }
+]
