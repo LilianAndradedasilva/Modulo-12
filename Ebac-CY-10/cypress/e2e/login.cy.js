@@ -2,7 +2,7 @@
 
 context('Funcionalidade Login', () => {
     beforeEach(() => {
-        cy.visit('minha-conta/')
+        cy.visit('produtos/')
     });
 
 afterEach(() => {///<reference types="cypress" />
